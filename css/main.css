@@ -1,0 +1,42 @@
+body {
+background: url(../img/kyo-azuma-267549-unsplash.jpg) no-repeat 50% 50%;
+background-size: fill;
+height: 350px;
+
+
+}
+head {
+
+
+
+
+
+}
+
+h1 {
+	font-family: 'Rubik Mono One', sans-serif;
+text-align: center;
+text-transform: uppercase;
+font-size: 60px;
+color: #8EDBDD;
+letter-spacing: 2px;
+
+
+}
+
+h2 { font-family: 'Rubik', sans-serif;
+	text-align: center;
+text-transform: uppercase;
+color: #FF8431;
+
+
+
+}
+
+p {
+text-align: center;
+color: white;
+
+
+
+}
